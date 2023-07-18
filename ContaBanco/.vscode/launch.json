@@ -1,0 +1,18 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type":"java",
+            "request": "launch",
+            "mainClass": "ContaTerminal",
+            "args": [
+                "1021",
+                "067-8",
+                "MARIO ANDRADE",
+                "237.48"
+            ]
+
+        }
+
+    ]
+}
